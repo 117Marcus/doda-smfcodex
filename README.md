@@ -114,6 +114,14 @@ Flags:
 Purchasers may use this code for personal and commercial projects.
 Redistribution or resale of the source files is not permitted.
 
+SMFCodex is proprietary software licensed on a per-user basis.
+
+- **Personal License** – For individual, non-commercial use on personal projects. No client or commercial work.
+- **Commercial License** – For freelancers, agencies, and companies using SMFCodex in revenue-generating or client projects, up to [N] seats within one organization.
+
+Example scripts and sample data are licensed separately under the **SMFCodex Example Materials License**, which allows you to reuse and modify them in your own projects but not resell the examples as a standalone product.
+
+By purchasing, downloading, or using SMFCodex, you agree to the terms in `LICENSE.md` and `EXAMPLE_LICENSE.md`.
 ---
 
 *Questions? Reach out via the product page.*
